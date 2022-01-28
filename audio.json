@@ -1,0 +1,34 @@
+{
+"1" :{
+  "id": "1",
+  "directory" : "Ann-Gorb",
+  "author" : "Аня Горбунова",
+  "name" : "Любоф",
+  "description" : "Повесть о любовных похождениях ",
+  "src" : "rave.mp3"
+  },
+  "2" : {
+    "id": "2",
+    "directory" : "Ann-Gorb",
+    "author" : "Аня Горбунова",
+    "name" : "Страхи",
+    "description" : "У всех бывают свои страхи ",
+    "src" : "rave.mp3"
+  },
+  "3" : {
+    "id": "3",
+    "directory": "Ann-Gorb",
+    "author": "Аня Горбунова",
+    "name": "Туда сюда",
+    "description": "Страсть к путешествиям ",
+    "src": "rave.mp3"
+  },
+  "4": {
+    "id": "4",
+    "directory": "Ann-Gorb",
+    "author": "Аня Горбунова",
+    "name": "Еда",
+    "description": "Вкусненько да как... ",
+    "src": "rave.mp3"
+  }
+}

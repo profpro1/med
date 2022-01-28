@@ -1,0 +1,12 @@
+<Files ".ht*">
+    Require all denied
+</Files>
+#<Files "*.*">
+#    Order allow,deny
+#    Deny from all
+#</Files>
+#<FilesMatch "\.(mp3)$">
+#Order Allow,Deny
+#Deny from all
+#</FilesMatch>
+
